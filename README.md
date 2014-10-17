@@ -1,4 +1,4 @@
-HTML-and-CSS-slide-out-navigation
+Viterbi Slider
 =================================
 
-This repository supports the video found at http://youtu.be/d4P8s-mkMvs
+Original files found at: https://github.com/DevTips
